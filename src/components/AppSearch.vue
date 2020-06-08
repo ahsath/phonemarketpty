@@ -5,7 +5,7 @@
       :data="filteredDataArray"
       field="node.title"
       class="max-w-xl mx-auto"
-      placeholder="Buscar por minerales, cuarzos, gemas, opalos..."
+      placeholder="Buscar por pantallas, reparaciones, celulares..."
       icon="magnify"
       dropdown-position="bottom"
       clearable
