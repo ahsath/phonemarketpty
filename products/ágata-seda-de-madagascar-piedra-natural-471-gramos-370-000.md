@@ -5,7 +5,7 @@ available: true
 title: Manos Libres Auricular Bluetooth 24 Horas De Batería
 description: BATERÍA DE LARGA DURACIÓN La poderosa batería de polímero de litio recargable
   de 250mAh con gran capacidad garantiza hasta 22 horas de reproducción de música
-unit_price: "3"
+unit_price: "7"
 images:
 - "/uploads/auriculares2.jpg"
 sellable: false
