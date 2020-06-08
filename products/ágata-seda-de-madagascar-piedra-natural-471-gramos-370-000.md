@@ -2,38 +2,68 @@
 date: 2020-04-27T21:30:37.000+00:00
 category: Accesorios
 available: true
-title: Ágata Seda De Madagascar Piedra Natural 471 Gramos
-description: Hermosa Ágata de Seda de Madagascar 100% Natural
-unit_price: '370.000'
+title: Manos Libres Auricular Bluetooth 24 Horas De Batería
+description: BATERÍA DE LARGA DURACIÓN La poderosa batería de polímero de litio recargable
+  de 250mAh con gran capacidad garantiza hasta 22 horas de reproducción de música
+unit_price: "3"
 images:
-- "/uploads/IMG_1094.jpg"
-- "/uploads/IMG_1093.jpg"
-- "/uploads/IMG_1092.jpg"
-- "/uploads/IMG_1091.jpg"
-- "/uploads/IMG_1090.jpg"
+- "/uploads/auriculares2.jpg"
 sellable: false
 payu_purchase_link: ''
-cover_img: "/uploads/IMG_1092.jpg"
+cover_img: "/uploads/auriculares.jpg"
 
 ---
-Hermosa Ágata de Seda de Madagascar 100% Natural 
-
-Origen Madagascar 
-
-Peso 471 Gramos 
-
-Medidas 11 X 7 X 6 Centímetros 
-
-[https://www.youtube.com/watch?v=A0VX4ly4Uro](https://www.youtube.com/watch?v=A0VX4ly4Uro "https://www.youtube.com/watch?v=A0VX4ly4Uro")
-
-Las ágatas son minerales que sirven para asentar las energías y aportan equilibrio físico, emocional e intelectual a la persona. Ayuda a centrar y estabilizar la energía física.
-
-Tienen el poder de armonizar el ying y el yang, fuerzas positivas y negativas, además de calmar y aliviar.
-
-Psicológicamente facilita la aceptación de uno mismo fomentando la autoconfianza, ayuda a mejorar la concentración, la percepción y las habilidades analíticas de uno mismo.
-
-Emocionalmente te ayuda a superar la negatividad y la amargura del corazón, sana la ira interna y fomentar el amor y el coraje.
-
-Te eleva la conciencia y la vinculación con la colectiva, anima a la contemplación y la asimilación de las experiencias de la vida a nivel espiritual.
-
-A nivel curativo, el ágata estabiliza el aura eliminando o transformando las energías negativas.
+NOTICIA 27-03-2020:  
+SERVIENTREGA NOS HA PERMITIDO REALIZAR ENVÍOS NUEVAMENTE DURANTE LA CUARENTENA PERO LOS TIEMPOS DE ENTREGA SI PUEDEN DURAR UNO O DOS DÍAS MAS.  
+  
+MANOS LIBRES AURICULAR BLUETOOTH NEW BEE LC-B41  
+  
+PRODUCTO ORIGINAL 1 AÑO DE GARANTÍA  
+  
+BATERÍA DE LARGA DURACIÓN La poderosa batería de polímero de litio recargable de 250mAh con gran capacidad garantiza hasta 22 horas de reproducción de música, 24 horas de llamada, 60 días de tiempo en espera.  
+  
+SONIDO HD Perfecto rendimiento de reducción de ruido, puedes pasar fácilmente a un sonido totalmente estéreo usando el audífono auxiliar USB que trae incluido para escuchar por tus dos oídos  
+  
+MULTI-FUNCIONES puedes ejecutar hasta 15 funciones diferentes: On/Off/Pair Mode, Wake-Up Siri o Google Assistant, Contestar/Colgar/Rechazar/Redial Llamada, Play/Pause/Próxima/Anterior Canción, Subir Volumen/Bajar Volumen  
+  
+CALIDAD PREMIUM fabricados con materiales de excelente calidad y con un diseño ergonómico para evitar caídas y molestias.  
+  
+CONEXIÓN MULTI PUNTO puedes conectarte a dos dispositivos al mismo tiempo.  
+  
+Compatibilidad  
+IOS / Android / Windows  
+  
+Dimensiones  
+58 x 24.2 x 16 mm  
+15 g  
+  
+Conectividad  
+Bluetooth 4.0 Distancia 10m  
+Puede conectarse a dos dispositivos al tiempo  
+  
+Características  
+\- Entradas: Micro USB  
+\- Auricular USB extra, que proporciona un sonido de música estéreo  
+\- Speaker: 11mm  
+\- Impedancia: 32ohm  
+\- Potencia: 220mW  
+\- Frecuencia de trabajo: 20Hz - 20.000Hz  
+\- Sensibilidad Micrófono: 40±2db  
+\- Sensibilidad (DB / MW): 96 ± 3dB @ 1KHz 1mv  
+\- Control de Volumen  
+\- Color: Negro  
+\- Batería 250mAh 3.7v  
+\- Tiempo de Carga 2 horas  
+\- Tiempo Standby: 60 días  
+\- Tiempo de conversación: 24 Horas  
+\- Tiempo de reproducción: 22 Horas  
+  
+Incluye  
+\- 1 Manos Libres LC-B41  
+\- 1 Auricular USB  
+\- 1 Cable USB  
+\- 3 Almohadillas  
+\- 2 Soportes para el oído  
+\- Manual  
+  
+TU PAGO ESTÁ PROTEGIDO EN TODO MOMENTO POR EL SERVICIO DE MERCADO PAGO, si te llega algo diferente a lo ofertado, te devolvemos el dinero
