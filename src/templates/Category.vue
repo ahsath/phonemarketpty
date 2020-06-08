@@ -68,7 +68,7 @@ export default {
   data: () => ({
     meta: {
       description:
-        "Explora nuestra lista de productos y encuentra miles de rocas preciosas y únicas en la categoría de"
+        "Explora nuestra lista de productos y encuentra miles de celulares y accesorios en la categoría de"
     }
   }),
   metaInfo() {
