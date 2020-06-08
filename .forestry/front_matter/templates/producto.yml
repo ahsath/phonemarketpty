@@ -25,8 +25,8 @@ fields:
   config:
     required: true
   label: Precio del producto
-  description: Precio del producto sin <strong>"$"</strong> o <strong>"COP"</strong>.
-    p.ej. 160.000
+  description: Precio del producto sin <strong>"$"</strong> o <strong>"USD"</strong>.
+    p.ej. 160.00
 - name: description
   type: text
   config:
