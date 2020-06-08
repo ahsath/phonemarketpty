@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Phone market PTY',
   siteUrl: 'https://phonemarketpty.com',
-  siteDescription: 'En Esmeralda3 vendemos y tallamos todo tipo de rocas preciosas y semipreciosas, con un inventario de más de 10.000 piezas entre meteoritos, raras y más',
+  siteDescription: 'Encuentra aquí lo último en Celulares, Repuestos y Servico técnico. Realizamos Envíos a todo Panamá.',
   metadata: {
     whatsapp: '50760550445',
     instagram: 'https://instagram.com/phonemarketpty20?igshid=1ohw3fhtzconx',
