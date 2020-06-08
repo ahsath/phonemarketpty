@@ -11,7 +11,7 @@ module.exports = {
   metadata: {
     whatsapp: '50760550445',
     instagram: 'https://instagram.com/phonemarketpty20?igshid=1ohw3fhtzconx',
-    youtube: '',
+    youtube: 'https://www.youtube.com/channel/UCKFs4TM_gEklfAFEbNOfV-g?view_as=subscriber',
     facebook: 'https://www.facebook.com/phonemarketpty20/'
   },
   plugins: [
