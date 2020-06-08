@@ -117,7 +117,7 @@ export default {
   data: () => ({
     meta: {
       title:
-        "Venta y talla de miles de rocas preciosas, semipreciosas y fósiles"
+        "Venta de celulares, Accesorios y Reparaciones "
     }
   }),
   metaInfo() {
