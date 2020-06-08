@@ -1,0 +1,85 @@
+:root {
+    --hero-medium: 18rem;
+    --full: 100%;
+    --zero: 0;
+    --one: 0.0625rem;
+}
+
+body {
+    padding-right: 0 !important;
+}
+
+/* Custom classes */
+.h-medium {
+    height: var(--hero-medium);
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+.h-full {
+    height: var(--full);
+}
+
+.w-full {
+    width: var(--full);
+}
+
+.absolute {
+    position: absolute;
+}
+
+.top-0 {
+    top: var(--zero)
+}
+
+.left-0 {
+    left: var(--zero)
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.items-end {
+    align-items: flex-end;
+}
+
+.flex-grow {
+    flex-grow: 1;
+}
+
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+.mt-4 {
+    margin-top: 1rem;
+}
+
+.mr-2 {
+    margin-right: 0.5rem;
+}
+
+.max-w-xl {
+    max-width: 36rem;
+}
+
+.mx-auto {
+    margin: 0 auto;
+}
+
+.rounded-t-lg {
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+}
+
+/* Buefy body overrides */
+body.has-navbar-fixed-top {
+    padding-top: 0 !important;
+}

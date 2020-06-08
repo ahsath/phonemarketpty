@@ -1,0 +1,71 @@
+---
+label: Producto
+hide_body: false
+fields:
+- name: date
+  type: datetime
+  label: Fecha
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
+- name: title
+  type: text
+  config:
+    required: true
+  label: Título de la publicacion
+  description: Indica el título de la publicación. <strong>Evita colocar el precio
+    en el título!</strong>
+- name: unit_price
+  type: text
+  config:
+    required: true
+  label: Precio del producto
+  description: Precio del producto sin <strong>"$"</strong> o <strong>"COP"</strong>.
+    p.ej. 160.000
+- name: description
+  type: text
+  config:
+    required: true
+  label: Descripción
+  description: Corta y breve descripción del producto
+- name: category
+  type: select
+  default: Piedras preciosas
+  config:
+    required: true
+    options:
+    - Piedras preciosas
+    - Semi preciosas
+    - Fósil
+    - Raras
+    - Otros
+    - Meteoritos
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Categoría
+  description: Indica la categoría del producto
+- name: cover_img
+  type: file
+  config:
+    maxSize: 64
+  label: Foto de portada
+  description: Foto de portada del producto
+- name: images
+  type: image_gallery
+  config: {}
+  label: Fotos del producto
+  description: Evita subir fotos con la extensión en mayuscula. p.ej. <strong>.JPG,
+    .PNG</strong>, etc
+- name: available
+  type: boolean
+  label: Producto disponible
+  description: Indica si el producto esta disponible
+  default: true

@@ -1,0 +1,23 @@
+{
+  "name": "gridsome-forestry",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "buefy": "^0.8.17",
+    "flickity": "^2.2.1",
+    "flickity-imagesloaded": "^2.0.0",
+    "gridsome": "^0.7.0",
+    "v-viewer": "^1.5.1"
+  },
+  "devDependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.5.0",
+    "bulma": "^0.8.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}
