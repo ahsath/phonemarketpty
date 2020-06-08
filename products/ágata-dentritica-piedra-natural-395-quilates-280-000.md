@@ -1,28 +1,32 @@
 ---
 date: 2020-04-27T19:14:41.000+00:00
-category: Celulares
+category: Reparaciones
 available: true
-title: Ágata Dentritica Piedra Natural 395 Quilates
-description: Hermoso Ejemplar de Ágata DentriticaOrigen Marruecos
-unit_price: '280.000'
+title: Kit De Reparación De Celulares Y Otros 32 Piezas Truper
+description: JUEGO DE HERRAMIENTAS PARA REPARACIÓN DE CELULARES 32 PIEZAS
+unit_price: "14"
 images:
-- "/uploads/b60b5f1e-75b5-4b80-8601-7996e00e604c.jpg"
-- "/uploads/35318453-7cec-4a7a-a3ad-8dd63c80017a.jpg"
-- "/uploads/33078947-58e7-4a1e-a339-c72c1d68094e.jpg"
-- "/uploads/23466536-f249-41a9-b0ab-3102b6c9b15b.jpg"
+- "/uploads/reparacion2.jpg"
 sellable: false
 payu_purchase_link: ''
-cover_img: "/uploads/b60b5f1e-75b5-4b80-8601-7996e00e604c.jpg"
+cover_img: "/uploads/reparacion1.jpg"
 
 ---
-Hermoso Ejemplar de Ágata Dentritica
-
-Origen Marruecos 
-
-Peso 395 Quilates
-
-Medidas 53.38 X 58.50 X 19.48 Milímetros
-
-PROPIEDADES: se cree que el ágata dendrítica trae abundancia y plenitud a nivel integral, incluyendo los negocios y la agricultura, además estimula el reposo interior, fortalece la resistencia y la constancia. Anima en las situaciones en que nos encontramos sin fuerzas, ayuda a superar desafíos, despierta la naturaleza guerrera en nosotros y nos empuja a investigar y conquistar.
-
-CHAKRAS: Esta piedra abre y alinea todos los chakras.
+JUEGO DE HERRAMIENTAS PARA REPARACIÓN DE CELULARES 32 PIEZAS  
+Marca: TRUPER  
+  
+Para dispositivos electrónicos y teléfonos celulares  
+  
+• 4 Puntas phillips PH000 a PH1  
+• 7 Puntas Torx T2 a T10  
+•1 Punta Torx con seguro T7  
+•2 Puntas hexagonales 1.5 y 2 mm  
+•4 Puntas estrellas 0.8 a 1.5 mm  
+•3 Puntas Triwing TRI000 a TRI0  
+•1 Punta Triángulo 3  
+•2 Herramientas de palanca plásticas  
+•1 Cuña triangular  
+•1 Ventosa para panel  
+•1 Llave para retirar SIM  
+•1 Extensión para punta  
+•1 Pinza curva
