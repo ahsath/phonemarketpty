@@ -4,7 +4,7 @@
       <template #banner-img>
         <g-image
           src="@/assets/img/banner-img.jpg"
-          alt="Venta y talla de rocas preciosas, semipreciosas y fósiles"
+          alt="Gama de celulares"
           class="absolute top-0 left-0 h-full object-cover is-block"
         />
       </template>
