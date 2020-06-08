@@ -3,9 +3,9 @@
     <template slot="brand">
       <b-navbar-item tag="router-link" to="/">
         <g-image
-          src="@/assets/img/logo.png"
-          alt="Logo de Esmeralda A3"
-          width="150"
+          src="@/assets/img/logo.svg"
+          alt="Logo de Phone market PTY"
+          width="230"
           class="is-block"
         />
       </b-navbar-item>
