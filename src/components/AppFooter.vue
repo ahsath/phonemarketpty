@@ -33,7 +33,7 @@
       </div>
       <p class="mt-4 is-size-7 has-text-grey">
         &copy;
-        {{ new Date().getFullYear() }} · EsmeraldA3
+        {{ new Date().getFullYear() }} · Phone market PTY
       </p>
     </div>
   </footer>
