@@ -1,6 +1,6 @@
 ---
 date: 2020-04-28T15:49:18.000+00:00
-category: Semi preciosas
+category: Reparaciones
 available: true
 title: Ambar Baltico Azul Natural 345 Gramos
 description: Ambar Baltico Azul 100% Natural

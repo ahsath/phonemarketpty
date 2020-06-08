@@ -1,6 +1,6 @@
 ---
 date: 2020-04-27T19:14:41.000+00:00
-category: Semi preciosas
+category: Celulares
 available: true
 title: Ágata Dentritica Piedra Natural 395 Quilates
 description: Hermoso Ejemplar de Ágata DentriticaOrigen Marruecos

@@ -49,52 +49,13 @@
           </flkty-carrousel>
         </div>
       </section>
-      <section class="section">
-        <div class="container">
-          <span class="is-size-7-mobile is-size-6 is-uppercase">Más recientes</span>
-          <h1
-            class="title is-size-4-mobile has-text-black-ter mb-0"
-          >{{ $page.p4.edges[0].node.category.title }}</h1>
-          <flkty-carrousel>
-            <div class="w-86 mx-2 my-9" v-for="edge in $page.p4.edges" :key="edge.node.id">
-              <app-product-card :product="edge.node" />
-            </div>
-          </flkty-carrousel>
-        </div>
-      </section>
-      <section class="section">
-        <div class="container">
-          <span class="is-size-7-mobile is-size-6 is-uppercase">Más recientes</span>
-          <h1
-            class="title is-size-4-mobile has-text-black-ter mb-0"
-          >{{ $page.p5.edges[0].node.category.title }}</h1>
-          <flkty-carrousel>
-            <div class="w-86 mx-2 my-9" v-for="edge in $page.p5.edges" :key="edge.node.id">
-              <app-product-card :product="edge.node" />
-            </div>
-          </flkty-carrousel>
-        </div>
-      </section>
-      <section class="section">
-        <div class="container">
-          <span class="is-size-7-mobile is-size-6 is-uppercase">Más recientes</span>
-          <h1
-            class="title is-size-4-mobile has-text-black-ter mb-0"
-          >{{ $page.p6.edges[0].node.category.title }}</h1>
-          <flkty-carrousel>
-            <div class="w-86 mx-2 my-9" v-for="edge in $page.p5.edges" :key="edge.node.id">
-              <app-product-card :product="edge.node" />
-            </div>
-          </flkty-carrousel>
-        </div>
-      </section>
     </main>
   </app-shell>
 </template>
 
 <page-query>
 query {
-  p1: allProduct(filter: { category: { eq: "Piedras preciosas" } }, limit: 10) {
+  p1: allProduct(filter: { category: { eq: "Celulares" } }, limit: 10) {
     totalCount
     edges {
       node {
@@ -110,7 +71,7 @@ query {
       }
     }
   }
-  p2: allProduct(filter: { category: { eq: "Semi preciosas" } }, limit: 10) {  
+  p2: allProduct(filter: { category: { eq: "Accesorios" } }, limit: 10) {  
     totalCount
     edges {
       node {
@@ -126,55 +87,7 @@ query {
       }
     }
   }
-  p3: allProduct(filter: { category: { eq: "Fósil" } }, limit: 10) {  
-    totalCount
-    edges {
-      node {
-        id
-        title
-        unit_price
-        path
-        available
-        category {
-          title
-        }
-        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
-      }
-    }
-  }
-  p4: allProduct(filter: { category: { eq: "Raras" } }, limit: 10) {  
-    totalCount
-    edges {
-      node {
-        id
-        title
-        unit_price
-        path
-        available
-        category {
-          title
-        }
-        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
-      }
-    }
-  }
-  p5: allProduct(filter: { category: { eq: "Otros" } }, limit: 10) {  
-    totalCount
-    edges {
-      node {
-        id
-        title
-        unit_price
-        path
-        available
-        category {
-          title
-        }
-        cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
-      }
-    }
-  }
-  p6: allProduct(filter: { category: { eq: "Meteoritos" } }, limit: 10) {  
+  p3: allProduct(filter: { category: { eq: "Reparaciones" } }, limit: 10) {  
     totalCount
     edges {
       node {
