@@ -5,14 +5,14 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Esmeralda3',
-  siteUrl: 'https://esmeralda3.com',
+  siteName: 'Phone market PTY',
+  siteUrl: 'https://phonemarketpty.com',
   siteDescription: 'En Esmeralda3 vendemos y tallamos todo tipo de rocas preciosas y semipreciosas, con un inventario de más de 10.000 piezas entre meteoritos, raras y más',
   metadata: {
-    whatsapp: '573122427586',
-    instagram: 'https://www.instagram.com/esmerald_a3/',
-    youtube: 'https://www.youtube.com/channel/UC8cHuqljd4lyPDJr9Tenn5Q',
-    facebook: 'https://www.facebook.com/Esmerald-A3-350095612260511/'
+    whatsapp: '50760550445',
+    instagram: 'https://instagram.com/phonemarketpty20?igshid=1ohw3fhtzconx',
+    youtube: '',
+    facebook: 'https://www.facebook.com/phonemarketpty20/'
   },
   plugins: [
     {
