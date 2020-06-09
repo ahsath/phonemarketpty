@@ -66,3 +66,5 @@ fields:
   label: Producto disponible
   description: Indica si el producto esta disponible
   default: true
+pages:
+- products/samsung-a71-sm-a715f-ds-128gb-6gb-ram.md
