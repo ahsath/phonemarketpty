@@ -2,24 +2,26 @@
 date: 2020-06-09T19:09:36Z
 category: Celulares
 available: true
-title: samsung A10s  32 Gb de memria interna y 2 Gb RAM
+title: Samsung A10s  32 Gb/ 2 Gb RAM
 unit_price: '155.00'
-description: 'Samsung A10s '
+description: Samsung A10s  32 Gb/ 2 Gb RAM
 cover_img: "/uploads/whatsapp-image-2020-06-09-a10s.jpeg"
 images:
-- "/uploads/whatsapp-image-2020-06-09-at-2-45-49-pm.jpeg"
+- "/uploads/img2019061114045-df57c5efc579e53ff5f3387eb4fe5481.jpg"
+- "/uploads/samsung-galaxy-a10s-3.jpg"
+- "/uploads/samsung-galaxy-a10s-1.jpg"
 
 ---
-        Samsung A10s
 
-pantalla : 6.2"
+* **Pantalla: 6.2", 720 x 1520 pixels**
+* **Procesador: MediaTek Helio P22 2GHz**
+* **RAM: 2GB**
+* **Almacenamiento: 32GB**
+* **Expansión: microSD**
 
-procesador : Octa core
 
-sistema operativo: Androi 9.0 pie
-
-almacenamiento interna: 32 gb
-
-RAM:  2 GB
-
-lector de huellas: si, trasera
+* **Cámara: Dual, 13MP+2MP**
+* **Batería: 4000 mAh**
+* **OS: Android 9.0**
+* **Perfil: 7.8 mm**
+* **Peso: 168 g**
