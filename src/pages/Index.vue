@@ -150,7 +150,7 @@ export default {
         },
         {
           property: "og:image",
-          content: `${this.$page.metadata.siteUrl}/og.jpg`
+          content: `${this.$page.metadata.siteUrl}/og.png`
         },
         { property: "og:type", content: "website" },
         { property: "og:locale", content: "es_CO" },
