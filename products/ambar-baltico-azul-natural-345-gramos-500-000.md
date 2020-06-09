@@ -2,8 +2,8 @@
 date: 2020-04-28T15:49:18.000+00:00
 category: Celulares
 available: true
-title: Celular Samsung A51 (SM-A515F/DS) 128Gb/4Gb Ram
-description: Celular Samsung A51 (SM-A515F/DS) 128Gb/ 4Gb Ram
+title: Samsung A51 (SM-A515F/DS) 128Gb/4Gb Ram
+description: Samsung A51 (SM-A515F/DS) 128Gb/ 4Gb Ram
 unit_price: '290.00'
 images:
 - "/uploads/samsung-galaxy-a51-sm-a515-3.jpg"
