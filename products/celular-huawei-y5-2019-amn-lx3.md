@@ -2,7 +2,7 @@
 date: 2020-06-09T21:35:48Z
 category: Celulares
 available: true
-title: Huawei Y5 2019 (AMN-LX3)
+title: Huawei Y5 2019 (AMN-LX3) 32Gb/2Gb Ram
 unit_price: '125.00'
 description: Huawei Y5 2019 (AMN-LX3)
 cover_img: "/uploads/huawei-y5-2019-yugatech2.jpg"
