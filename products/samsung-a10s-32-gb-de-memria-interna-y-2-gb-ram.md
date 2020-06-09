@@ -2,9 +2,9 @@
 date: 2020-06-09T19:09:36Z
 category: Celulares
 available: true
-title: Samsung A10s (SM-A107F/DS) 32 Gb/ 2 Gb RAM
+title: Samsung A10s (SM-A107F/DS) 32Gb/2Gb RAM
 unit_price: '155.00'
-description: Samsung A10s (SM-A107F/DS) 32 Gb/ 2 Gb RAM
+description: Samsung A10s (SM-A107F/DS)
 cover_img: "/uploads/whatsapp-image-2020-06-09-a10s.jpeg"
 images:
 - "/uploads/img2019061114045-df57c5efc579e53ff5f3387eb4fe5481.jpg"
