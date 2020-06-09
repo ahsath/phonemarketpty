@@ -2,9 +2,9 @@
 date: 2020-06-09T21:35:48Z
 category: Celulares
 available: true
-title: Celular Huawei Y5 2019 (AMN-LX3)
+title: Huawei Y5 2019 (AMN-LX3)
 unit_price: '125.00'
-description: Celular Huawei Y5 2019 (AMN-LX3)
+description: Huawei Y5 2019 (AMN-LX3)
 cover_img: "/uploads/huawei-y5-2019-yugatech2.jpg"
 images:
 - "/uploads/huawei-y5-2019-3.jpg"
