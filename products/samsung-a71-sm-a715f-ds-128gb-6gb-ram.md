@@ -3,7 +3,7 @@ date: 2020-06-09T00:51:56Z
 category: Celulares
 available: true
 title: Samsung A71 (SM-A715F/DS) 128Gb/6Gb Ram
-unit_price: "$385.00"
+unit_price: '385.00'
 description: Samsung A71 (SM-A715F/DS) 128Gb/6Gb Ram
 cover_img: "/uploads/gsmarena_001.jpg"
 images:
