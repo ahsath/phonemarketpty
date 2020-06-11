@@ -2,7 +2,7 @@
 date: 2020-06-11T20:26:54Z
 category: Celulares
 available: true
-title: Xiaomi Note 9s 128Gb
+title: Xiaomi Note 9s 128Gb/6Gb Ram
 unit_price: '265.00'
 description: Xiaomi Note 9s 128Gb
 cover_img: "/uploads/gsmarena_001-4.jpg"
