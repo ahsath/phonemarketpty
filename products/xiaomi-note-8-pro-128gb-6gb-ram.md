@@ -31,11 +31,9 @@ images:
 ---
 * **Pantalla: 6.53", 1080 x 2340 pixels**
 * **Procesador: Mediatek Helio G90T 2.05GHz**
-* **RAM: 6GB/8GB**
+* **RAM: 6GB**
 * **Almacenamiento: 64GB/128GB**
 * **Expansión: sin microSD**
-
-
 * **Cámara: Cuádruple, 64MP+8MP +2MP+2MP**
 * **Batería: 4500 mAh**
 * **OS: Android 9.0**
