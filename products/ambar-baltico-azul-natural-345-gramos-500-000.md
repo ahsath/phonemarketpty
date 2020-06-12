@@ -31,10 +31,8 @@ cover_img: "/uploads/gsmarena_001-1.jpg"
 * **RAM: 4GB/6GB/8GB**
 * **Almacenamiento: 64GB/128GB**
 * **Expansión: microSD**
-
-
 * **Cámara: Cuádruple, 48MP+12MP +5MP+5MP**
 * **Batería: 4000 mAh**
 * **OS: Android 9.0**
 * **Perfil: 7.9 mm**
-* **Peso: 172 g**
+* **Peso: 172 g** 
