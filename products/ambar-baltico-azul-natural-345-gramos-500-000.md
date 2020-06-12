@@ -35,4 +35,4 @@ cover_img: "/uploads/gsmarena_001-1.jpg"
 * **Batería: 4000 mAh**
 * **OS: Android 9.0**
 * **Perfil: 7.9 mm**
-* **Peso: 172 g** 
+* **Peso: 172 g**
