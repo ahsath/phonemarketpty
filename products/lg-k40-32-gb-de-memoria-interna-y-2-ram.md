@@ -5,9 +5,14 @@ available: true
 title: LG K40 ( 32 gb de memoria interna y 2 Ram
 unit_price: '110.00'
 description: LG K40 ( 32 gb de memoria interna y 2 Ram
-cover_img: "/uploads/40f69048-7860-44b9-8e4e-5bcac084fb22.jpeg"
+cover_img: "/uploads/lg-k40-2-1.jpg"
 images:
-- "/uploads/40f69048-7860-44b9-8e4e-5bcac084fb22.jpeg"
+- "/uploads/450_1000.jpg"
+- "/uploads/sin-titulofssesa.jpg"
+- "/uploads/lg-k40-2.jpg"
+- "/uploads/dsc01283-1920x1282.jpg"
+- "/uploads/descarga-1.jpg"
+- "/uploads/16132000-3_2000-2000_1580129384_ca0.jpg"
 - "/uploads/9d2ea817-9b30-4d5b-8b60-0c4341231ea3.jpeg"
 
 ---
