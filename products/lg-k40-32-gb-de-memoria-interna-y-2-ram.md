@@ -2,9 +2,9 @@
 date: 2020-06-13T17:11:10Z
 category: Celulares
 available: true
-title: LG K40 ( 32 gb de memoria interna y 2 Ram
+title: LG K40 (32Gb/2Gb Ram)
 unit_price: '110.00'
-description: LG K40 ( 32 gb de memoria interna y 2 Ram
+description: LG K40 (32Gb/2Gb Ram)
 cover_img: "/uploads/lg-k40-2-1.jpg"
 images:
 - "/uploads/450_1000.jpg"
