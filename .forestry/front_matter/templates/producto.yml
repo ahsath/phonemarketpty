@@ -67,6 +67,7 @@ fields:
   description: Indica si el producto esta disponible
   default: true
 pages:
+- products/audifonos-bluetooth.md
 - products/celular-huawei-y5-2019-amn-lx3.md
 - products/huawei-p40-lite-128gb-6gb-ram.md
 - products/huawei-y9-prime-stk-lx3.md
