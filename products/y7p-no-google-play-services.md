@@ -7,6 +7,8 @@ unit_price: '195.00'
 description: Y7p (no Google Play Services)
 cover_img: "/uploads/huawei-y7p-15.png"
 images:
+- "/uploads/huawei-y7p-003.jpg"
+- "/uploads/huawei-y7p-2.jpg"
 - "/uploads/huawei-y7p-1.jpg"
 - "/uploads/huawei-p40-lite-e.jpg"
 
