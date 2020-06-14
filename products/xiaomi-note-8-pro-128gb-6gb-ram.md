@@ -5,7 +5,7 @@ available: true
 title: Xiaomi Note 8 Pro 128Gb/6Gb Ram
 unit_price: '250.00'
 description: Xiaomi Note 8 Pro 128Gb/6Gb Ram
-cover_img: "/uploads/xiaomi-redmi-note-8-pro-1.jpg"
+cover_img: "/uploads/maxresdefault-3.jpg"
 images:
 - "/uploads/xiaomi-redmi-note-8-pro-twilight-orange.jpg"
 - "/uploads/xiaomi-redmi-note-8-pro-2.jpg"
