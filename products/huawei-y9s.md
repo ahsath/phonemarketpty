@@ -5,7 +5,7 @@ available: true
 title: Huawei Y9s
 unit_price: '265.00'
 description: Huawei Y9s
-cover_img: "/uploads/huaweiy9slado.jpg"
+cover_img: "/uploads/imagen1.png"
 images:
 - "/uploads/huaweiy9slado-1.jpg"
 - "/uploads/huawei-y9s-3.jpg"
