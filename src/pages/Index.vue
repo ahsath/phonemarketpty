@@ -13,9 +13,11 @@
       <section class="section">
         <div class="container">
           <span class="is-size-7-mobile is-size-6 is-uppercase">Más recientes</span>
-          <h1
-            class="title is-size-4-mobile has-text-black-ter mb-0"
-          >{{ $page.p1.edges[0].node.category.title }}</h1>
+          <g-link :to="$page.p1.edges[0].node.category.path">
+            <h1
+              class="title is-size-4-mobile has-text-black-ter mb-0"
+            >{{ $page.p1.edges[0].node.category.title }}</h1>
+          </g-link>
           <flkty-carrousel>
             <div class="w-86 mx-2 my-9" v-for="edge in $page.p1.edges" :key="edge.node.id">
               <app-product-card :product="edge.node" />
@@ -26,9 +28,11 @@
       <section class="section">
         <div class="container">
           <span class="is-size-7-mobile is-size-6 is-uppercase">Más recientes</span>
-          <h1
-            class="title is-size-4-mobile has-text-black-ter mb-0"
-          >{{ $page.p2.edges[0].node.category.title }}</h1>
+          <g-link :to="$page.p2.edges[0].node.category.path">
+            <h1
+              class="title is-size-4-mobile has-text-black-ter mb-0"
+            >{{ $page.p2.edges[0].node.category.title }}</h1>
+          </g-link>
           <flkty-carrousel>
             <div class="w-86 mx-2 my-9" v-for="edge in $page.p2.edges" :key="edge.node.id">
               <app-product-card :product="edge.node" />
@@ -39,9 +43,11 @@
       <section class="section">
         <div class="container">
           <span class="is-size-7-mobile is-size-6 is-uppercase">Más recientes</span>
-          <h1
-            class="title is-size-4-mobile has-text-black-ter mb-0"
-          >{{ $page.p3.edges[0].node.category.title }}</h1>
+          <g-link :to="$page.p3.edges[0].node.category.path">
+            <h1
+              class="title is-size-4-mobile has-text-black-ter mb-0"
+            >{{ $page.p3.edges[0].node.category.title }}</h1>
+          </g-link>
           <flkty-carrousel>
             <div class="w-86 mx-2 my-9" v-for="edge in $page.p3.edges" :key="edge.node.id">
               <app-product-card :product="edge.node" />
@@ -66,6 +72,7 @@ query {
         available
         category {
           title
+          path
         }
         cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
@@ -82,6 +89,7 @@ query {
         available
         category {
           title
+          path
         }
         cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
@@ -98,6 +106,7 @@ query {
         available
         category {
           title
+          path
         }
         cover_img(width: 344, height: 194, fit: cover, background: "white", quality: 80)
       }
@@ -116,8 +125,7 @@ export default {
   name: "Home",
   data: () => ({
     meta: {
-      title:
-        "Venta de celulares, Accesorios y Reparaciones "
+      title: "Venta de celulares, Accesorios y Reparaciones "
     }
   }),
   metaInfo() {
