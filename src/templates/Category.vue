@@ -102,7 +102,7 @@ export default {
         },
         {
           property: "og:image",
-          content: `${this.$page.metadata.siteUrl}/og.png`
+          content: `${this.$page.metadata.siteUrl}/og.jpg`
         },
         { property: "og:type", content: "website" },
         { property: "og:locale", content: "es_CO" },
@@ -122,7 +122,7 @@ export default {
         },
         {
           property: "twitter:image",
-          content: `${this.$page.metadata.siteUrl}/og.png`
+          content: `${this.$page.metadata.siteUrl}/og.jpg`
         }
       ]
     };
